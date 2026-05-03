@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local Python environments and installed packages
+.venv/
+venv/
+env/
+ENV/
+site-packages/
+
+# Generated forensic output
+reports/
+forensics_report.json
+
+# Temporary/build folders
+.tmp/
+.tmp_tests/
+build/
+dist/
+*.egg-info/
+
+# Editor/OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
